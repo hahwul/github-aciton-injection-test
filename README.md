@@ -1,4 +1,6 @@
 # github-aciton-injection-test
+This repo is a sample repo for github-action script injection testing.
+
 
 ## Post
 https://www.hahwul.com/cullinan/github-action-injection/
